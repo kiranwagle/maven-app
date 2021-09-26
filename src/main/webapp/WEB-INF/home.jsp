@@ -12,8 +12,8 @@
 </head>
 </head>
 <body>
- <h1 align="center">Caltech Simplilearn July 2021</h1>
-<h1 align="center">Congrats - your app deployed on Tomcat!</h1>
-<h2 align="center">This is cool huh?!</h2>
+ <h1 align="center">Project for Jenkins Maven Build</h1>
+<h1 align="center">Congrats - It has been successfully Implemented</h1>
+<h2 align="center">This is superb Learnings?!</h2>
 </body>
 </html>
